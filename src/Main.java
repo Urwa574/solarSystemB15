@@ -5,5 +5,11 @@ public class Main {
         solarSystem.moon="2";
         solarSystem.Planets="2";
 
+        featureSun Xron=new featureSun();
+        Xron.temperature="12345";
+        Xron.radius=hgcyhdgyhfg;
+        Xron.color="pink";
+        
+
     }
 }
